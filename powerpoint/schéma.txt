@@ -1,0 +1,8 @@
+Backlog => le PO créer les tickets
+Backlog Refinement => l'équipe les affines (découpage du ticket en plusieurs taches plus petite et lui affecte un story point (=>complexité du ticket estimation du temps a passer dessus)
+Sprint Planning => durant ce rituels l'équipe choisi les taches à embarquer dans le sprint a venir (attention les story point ne doit pas depasser la capacité de l'équipe)
+Kanban => Tableau de suivi des taches pour l'équipe : quel ticket est a faire, en cours, terminé
+le long du sprint l'équipe réalise un rituel appelé Daily Meeting, elle permet de suivre l'évolution des taches du sprint.
+Il existe également 3 autres Sprint Review = Sprint Démo + Sprint Rétrospective
+Sprint Démo => c'est la démo au parti prenante (PO) des taches réalisé pendant le sprint
+Sprint Rétrospective => c'est la conclusion du sprint (Vérification du nombre de ticket réalisé, humeur de l'équipe,amélioration possible...)
